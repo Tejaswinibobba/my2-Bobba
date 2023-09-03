@@ -16,4 +16,13 @@ kerala is known for its palm lined beaches and backwaters,a network of canals.In
 1. Tropical beaches<br>
 1. Tea gardens
 
+* Idlisambar<br>
+* Idiyappam with curry <br>
+* Appam with isthu<br>
+* Eriserry
+
+
+
+
+
 
