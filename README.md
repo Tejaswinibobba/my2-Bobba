@@ -6,4 +6,14 @@ kerala is known for its palm lined beaches and backwaters,a network of canals.In
 
 **Beaches,tea and coffee plantations**<br>
 **National parks**
+<br>
+
+***
+###  land of spices<br>
+
+1.  The hill stations<br>
+1. visit a spice plantation<br>
+1. Tropical beaches<br>
+1. Tea gardens
+
 
