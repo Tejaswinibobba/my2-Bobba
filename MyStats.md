@@ -27,5 +27,30 @@ The table below shows the sports i am intrested in they are Badminton,Tennis,vol
 >We are what our thoughts have made us; so take care about what you think.
 *Swami vivekanandha*
 
+# code snippets
+> jQuery hasAttr checking to see if there is an attribute on an element<br>
+[stackoverflow](https://stackoverflow.com/questions/1318076/jquery-hasattr-checking-to-see-if-there-is-an-attribute-on-an-element)
+
+Get the attribute, check the value
+```
+var attr = $(this).attr('name');
+
+// For some browsers, `attr` is undefined; for others, `attr` is false. Check for both.
+if (typeof attr !== typeof undefined && attr !== false) {
+  // Element has this attribute
+}
+```
+Native JavaScript has a way
+```
+$(this)[0].hasAttribute("name");
+jQObject[0].hasAttribute("name");
+```
+Filter the selection
+```
+$(this).is('[name]');
+$(this).filter("[name='choice']");
+```
+[hasAttr() equivalent](https://css-tricks.com/snippets/jquery/make-an-jquery-hasattr/)
+
 
 
