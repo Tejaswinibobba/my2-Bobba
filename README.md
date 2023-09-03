@@ -19,7 +19,14 @@ kerala is known for its palm lined beaches and backwaters,a network of canals.In
 * Idlisambar<br>
 * Idiyappam with curry <br>
 * Appam with isthu<br>
-* Eriserry
+* Eriserry<br>
+
+[Happiness is a choice](MyStats.md)<br>
+
+
+
+
+
 
 
 
