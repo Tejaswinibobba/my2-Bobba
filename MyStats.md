@@ -20,5 +20,12 @@ The table below shows the sports i am intrested in they are Badminton,Tennis,vol
 |Volleyball| Volleyball can help circulate more blood, oxygen, and nutrients into the body as well as enhance your energy levels to improve your overall well-being. You can also develop improved hand-eye coordination and fast reflexes. |3-4 hours|
 |Throwball|  As with any high intensity sport, there are many cardiovascular benefits of Throw ball. They were also taught to play without pushing and juggling the ball also releasing it within 3 seconds . This boosts their aerobic capacity, energy levels and metabolism, which in turn helps kids concentrate more in school. |1-2 hours|
 
+# quote
+> If you fail, never give up because FAIL means "First Attempt In Learning".
+*Abdul kalam*<br>
+
+>We are what our thoughts have made us; so take care about what you think.
+*Swami vivekanandha*
+
 
 
